@@ -15,7 +15,7 @@ master : [![Build Status](https://travis-ci.org/richkmeli/Richkware-Manager-Clie
 ### [JFramework](/JFramework)
 master : [![Build Status](https://travis-ci.org/richkmeli/JFramework.svg?branch=master)](https://travis-ci.org/richkmeli/JFramework)     
 
-### [JFramework](/JCrypto)
+### [JCrypto](/JCrypto)
 master : [![Build Status](https://travis-ci.org/richkmeli/JCrypto.svg?branch=master)](https://travis-ci.org/richkmeli/JCrypto)
 
 
